@@ -2,7 +2,7 @@
 
 ### Springboard Data Science Work
 Completed course work as a fellow of Springboard's Data Science Career Track. <br>
-Course work is contained in the Curriculum folder
+Course work is contained in the Curriculum and Course_Work folder
 
 The capstone projects are independent work that incorporate the full breadth of the data science life cycle, from problem identification through modeling and results sharing. The projects are:
 
